@@ -1,3 +1,3 @@
-# Awake Releases
+# Life Releases
 
-This repo hosts the desktop binaries for Awake.
+Desktop binaries for Life.
